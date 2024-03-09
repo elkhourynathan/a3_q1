@@ -15,3 +15,5 @@ Nathan El-Khoury
 - `main.py` is used for testing of the application. Run `python3 main.py` to access (or `python main.py`)
 - `commands.sql` contains some SQL commands that were used to create the table and insert data
 
+#### Video Link
+https://youtu.be/DJVNhu3EJ1c
